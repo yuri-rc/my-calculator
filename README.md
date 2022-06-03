@@ -6,4 +6,4 @@ Teste o projeto <a href="https://earnest-basbousa-e87a71.netlify.app/">aqui</a>.
 <h2>Instruções para testar na sua máquina:</h2>
 Faça um Fork;</br>
 Clone o repositório para seu local;</br>
-Na pasta, rode o comando npm install pelo terminal.
+Na pasta, rode o comando "npm install" pelo terminal.
